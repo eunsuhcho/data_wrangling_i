@@ -1,0 +1,12 @@
+---
+title: "Data Manipulation"
+output: github_document
+---
+
+Let's import the `FAS_litters.csv` csv using a relative path.
+
+```{r}
+library(tidyverse)
+```
+
+
